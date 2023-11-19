@@ -1,0 +1,23 @@
+
+#b1{
+    width: 50px;
+
+}
+#in1{
+    border: solid;
+    width: 228px;
+    
+}
+#all{
+    width: 300px;
+    height: 350px;
+    background-color: rgb(155, 149, 143);
+    border-radius: 20px;
+    box-shadow: 12px 10px 5px gray;
+}
+#ch1{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+    
+}
